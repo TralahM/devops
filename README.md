@@ -19,12 +19,14 @@ git clone https://github.com/TralahM/devops.git
 cd devops
 ```
 
-## Scripts Herein.
+## Project Structure.
 * [cicd](https://github.com/TralahM/devops/blob/master/cicd)
 
 * [deployment](https://github.com/TralahM/devops/blob/master/deployment)
 
 * [containerization](https://github.com/TralahM/devops/blob/master/containerization)
+
+* [README.md](https://github.com/TralahM/devops/blob/master/README.md)
 
 
 # Contributors.
